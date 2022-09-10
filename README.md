@@ -1,6 +1,7 @@
 # DataAnalysis PowerBI sale insight
 MySQL DATABASE
-TABLEAU
+  
+ TABLEAU
 - Profit Margin.
 - Revenue.
 - Sale Qty.
