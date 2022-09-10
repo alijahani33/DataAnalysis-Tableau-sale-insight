@@ -1,4 +1,4 @@
-# DataAnalysis PowerBI sale insight
+# DataAnalysis Tableau sale insight
 MySQL DATABASE
   
  TABLEAU
